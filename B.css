@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(228, 185, 185);
+    line-height: 30PX;
+    color: black;
+}
+
+
+h1 {
+    border: 2px solid black;
+    border-radius: 10PX;
+    box-shadow: 20PX gray;
+    text-align: center;
+    background-color: rgb(16, 17, 16);
+    color:brown;
+
+
+}
+
+span {
+    font: size 7em;
+    ;
+}
+
+p {
+    word-spacing: 2px;
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    line-height: 3em;
+
+
+}
+
+input {
+    width: 10em;
+    height: 2em;
+    border-radius: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+label input{
+    border-radius: 10px;
+    background-color: brown;
+}
+button{
+    border-radius: 7px;
+    background-color: brown;
+    
+}

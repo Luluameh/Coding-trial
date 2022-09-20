@@ -1,0 +1,64 @@
+body {
+    background-image: url(cream.jpg);
+    background-size: 1500px;
+     color: white;
+    font-size: medium;
+
+
+
+}
+
+li {
+    list-style: none;
+    border:  20px rgb(26, 25, 25) solid;
+    background-color: rgb(29, 27, 27);
+    width: 30;
+    height: 30px;
+    box-shadow: 3px white;
+    font-size: 20px;
+    
+
+}
+
+
+.emo {
+    font-size: 7rem;
+    color: yellow;
+}
+
+p {
+    font-style: italic;
+}
+
+.box {
+    text-align: center;
+background-color: blue;
+    border: 2px solid royalblue;
+    width: 10em;
+    float: inline-start;
+    border-radius: 15px;
+    font-size: 20px;
+    word-spacing: 3px;
+
+}
+span{
+    font-size: 7rem;
+    color: lightsalmon;
+}
+.par{
+    text-align: center;
+    background-color: peachpuff;
+    border: 2px solid peachpuff;
+    width: 10em;
+    border-radius: 15px;
+    font-size: 20px;
+
+}
+.week{
+   text-align: center;
+   background-color: lightgreen; 
+    border: 3px solid lightgreen;
+    width: 10em;
+    border-radius: 15px;
+    font-size: 20px;
+}
